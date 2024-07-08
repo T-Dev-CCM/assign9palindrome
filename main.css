@@ -1,0 +1,50 @@
+body{ 
+	Background-color:lightblue;
+	color:white; 
+} 	
+
+nav{
+	height:250px;  
+	width:200px; 
+	float:left; 
+	padding:5px; 
+	line-height:30px; 
+}
+
+footer{
+	text-align:center; 
+	
+} 
+
+#memeImage{ 
+	margin-right:200px;  
+} 
+
+header{ 
+	text-align:center; 
+	font-size:150% 
+} 
+
+.ButtonStrt{
+	background-color: aquamarine; 
+	width:100px; 
+	height:30px; 
+	border-radius: 15px;
+	border-color: aqua;
+}
+
+.ButtonStp{
+	background-color: aquamarine; 
+	width:100px; 
+	height:30px; 
+	border-radius: 15px;
+	border-color: red;
+} 
+
+#palinTitle{
+text-align:center; 
+}
+
+#palinBody{ 
+	padding-left: 350px;
+}
